@@ -1,2 +1,2 @@
-Landing page for Eliza Scotts brillian mind!
+Landing page for Eliza Scott's brilliant mind!
 
