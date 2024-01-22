@@ -18,3 +18,10 @@ main {
     margin: 20px auto;
     padding: 0 10px;
 }
+.profile-pic {
+    width: 100%; /* or any other size */
+    height: auto; /* maintain aspect ratio */
+    max-width: 300px; /* maximum size */
+    display: block; /* optional, for block level behavior */
+    margin: 0 auto; /* optional, for centering the image if needed */
+}
