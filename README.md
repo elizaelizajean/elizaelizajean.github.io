@@ -1,2 +1,2 @@
-# elizascott.github.iohello eliza
+Landing page for Eliza Scotts brillian mind!
 
